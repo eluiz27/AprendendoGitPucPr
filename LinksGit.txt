@@ -20,3 +20,6 @@ https://gist.github.com/leocomelli/2545add34e4fec21ec16
 
 # Vídeo Aula | O que são Git e Github?
 https://www.youtube.com/watch?v=P4BNi_yPehc
+
+#Como usar GitHub no seu projeto: funções, recursos e dicas 
+https://blog.revelo.com.br/como-usar-github-no-seu-projeto/
