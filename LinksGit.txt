@@ -15,11 +15,14 @@ https://www.youtube.com/watch?v=UbJLOn1PAKw
 #Lista de comandos úteis do Git 
 https://gist.github.com/leocomelli/2545add34e4fec21ec16
 
-# Livros sobre o Git direto do site oficial
+#Livros sobre o Git direto do site oficial
  https://git-scm.com/book/en/v2
 
-# Vídeo Aula | O que são Git e Github?
+#Vídeo Aula | O que são Git e Github?
 https://www.youtube.com/watch?v=P4BNi_yPehc
 
 #Como usar GitHub no seu projeto: funções, recursos e dicas 
 https://blog.revelo.com.br/como-usar-github-no-seu-projeto/
+
+#Por que usar Git para desenvolvimento individual?
+https://pt.stackoverflow.com/questions/43896/por-que-usar-git-para-desenvolvimento-individual
