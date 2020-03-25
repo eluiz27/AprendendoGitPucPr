@@ -1,6 +1,6 @@
 #Arquivo com links e dicas essenciais para GitHub
--- Elaborador por: Rodrigo Verna & Luiz Eduardo Campos da Silva
--- Data da criação: 24/03/2020 
+-- Elaborado por: Rodrigo Perez Verna & Luiz Eduardo Campos da Silva
+-- Data da criação: 24/03/2020 - Publicação: 25/03/2020 
 
 *PS: Os links foram testados na data de criação e publicação, caso encontre um link quebrado, fique a vontade para atualizar e colaborar com este documento. 
 
