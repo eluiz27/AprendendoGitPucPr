@@ -1,7 +1,16 @@
-#Arquivo de Texto com Links e Dicas Essenciais para GitHub 
+#Arquivo com links e dicas essenciais para GitHub
+-- Elaborador por: Rodrigo Verna & 
+-- Data da criação: 24/03/2020 
+
+*PS: Os links foram testados na data de criação e publicação, caso encontre um link quebrado, fique a vontade para atualizar e colaborar com este documento. 
+
+--Início do Documento-- 
 
 #Página sobre como instalar o git:
 https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git
+
+#Vídeo Aula | Guia Completo do Iniciante em GitHub 
+https://www.youtube.com/watch?v=UbJLOn1PAKw
 
 #Lista de comandos úteis do Git 
 https://gist.github.com/leocomelli/2545add34e4fec21ec16
