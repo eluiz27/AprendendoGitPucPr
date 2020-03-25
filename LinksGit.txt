@@ -15,5 +15,8 @@ https://www.youtube.com/watch?v=UbJLOn1PAKw
 #Lista de comandos úteis do Git 
 https://gist.github.com/leocomelli/2545add34e4fec21ec16
 
-#Livro sobre o Git direto do site oficial
-https://git-scm.com/book/en/v2
+# Livros sobre o Git direto do site oficial
+ https://git-scm.com/book/en/v2
+
+# Vídeo Aula | O que são Git e Github?
+https://www.youtube.com/watch?v=P4BNi_yPehc
