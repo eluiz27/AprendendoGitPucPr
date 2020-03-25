@@ -1,1 +1,7 @@
-Página sobre como instalar o git: https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git
+#Arquivo de Texto com Links e Dicas Essenciais para GitHub 
+
+#Página sobre como instalar o git:
+https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git
+
+#Lista de comandos úteis do Git 
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
